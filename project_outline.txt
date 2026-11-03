@@ -1,0 +1,29 @@
+Title
+Vendor Payment Analysis and Spend Optimization
+
+Goal
+Identify:
+
+Top vendors receiving the highest payments
+Spending trends by month
+Expense categories consuming the most budget
+Potential vendor concentration risk
+
+Questions
+
+Q1. Which vendors receive the highest total payments?
+Top vendors by spend
+% share of total spend
+
+Q2. What percentage of total spending goes to the top 10 vendors?
+Risk assessment
+Supplier dependency
+
+Q3. Which months have the highest expenditures?
+Monthly spending trend
+Peak spending periods
+
+Q4. Which GL accounts account for the largest share of total recorded spending?
+Expense category analysis
+Largest cost drivers
+
